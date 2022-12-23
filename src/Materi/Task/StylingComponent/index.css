@@ -1,0 +1,11 @@
+.head {
+    background-image: url(./image/bg.jpg);
+}
+
+.tittle {
+    display: inline;
+}
+
+.description {
+    margin-left: 35px;
+}
