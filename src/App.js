@@ -1,9 +1,9 @@
-import StylingComponent from "./Materi/Task";
+import FormRegistrasi from "./Materi/Task/FormRegistrasi";
 
 function App() {
   return (
     <div className="App">
-      <StylingComponent />
+      <FormRegistrasi />
     </div>
   );
 }
